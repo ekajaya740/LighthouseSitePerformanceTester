@@ -1,0 +1,18 @@
+{
+  "extends": "lighthouse:default",
+  "settings": {
+    "onlyCategories": [
+      "accessibility",
+      "best-practices",
+      "performance",
+      "seo"
+    ],
+    "formFactor": "desktop",
+    "screenEmulation": {
+      "mobile": false,
+      "deviceScaleFactor": 1,
+      "disabled": false
+    },
+    "emulatedUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4420.0 Safari/537.36 Chrome-Lighthouse"
+  }
+}

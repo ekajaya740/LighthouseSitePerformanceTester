@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dev": {
+    "originUrl": "http://my_wedding_bali.test/admin",
+    "targetUrl": "http://my_wedding_bali.test/admin",
+    "username": "efg",
+    "password": "Password123"
+  },
+  "dependencies": {
+    "lighthouse": "^12.2.2",
+    "puppeteer": "^23.10.3"
+  },
+  "type": "module"
+}

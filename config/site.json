@@ -1,0 +1,8 @@
+{
+    "email": "admin@example.com",
+    "password": "admin",
+    "originUrl": "http://my_wedding_bali.test/admin",
+    "weddingPlan": {
+        "editUrl": "http://my_wedding_bali.test/admin/wedding_plans/dwa/edit"
+    }
+}
